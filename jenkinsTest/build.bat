@@ -1,0 +1,1 @@
+D:\Software\uniy2018\Unity\Editor\Unity.exe -projectPath D:\jenkinsTest\jenkinsTest -executeMethod APKBuild.Build -quit
